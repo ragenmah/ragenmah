@@ -82,5 +82,7 @@ behind them, and taken them through release and maintenance.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ragenmah&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragenmah&layout=compact&theme=tokyonight&hide_border=true)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragenmah&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragenmah&theme=tokyonight)
+![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragenmah&theme=tokyonight)
