@@ -80,7 +80,7 @@ behind them, and taken them through release and maintenance.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragenmah&theme=tokyonight)
 
@@ -92,3 +92,11 @@ behind them, and taken them through release and maintenance.
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-trophies.vercel.app/?username=ragenmah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://ragen.com.np
+- LinkedIn: https://www.linkedin.com/in/ragen-maharjan-a4000118a/
+- GitHub: https://github.com/ragenmah
