@@ -86,3 +86,9 @@ behind them, and taken them through release and maintenance.
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragenmah&theme=tokyonight)
 ![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragenmah&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-trophies.vercel.app/?username=ragenmah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
